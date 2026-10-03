@@ -1,0 +1,4 @@
+- [x] Build the single-page institutional site with central company data and semantic sections.
+- [x] Add illustrative images and optional video fallbacks for unavailable attachments.
+- [ ] Verify mobile, tablet, desktop rendering and contact interactions.
+- [ ] Replace illustrative media with the user's original attachments when supplied (blocked: attachments are not present in this workspace).
